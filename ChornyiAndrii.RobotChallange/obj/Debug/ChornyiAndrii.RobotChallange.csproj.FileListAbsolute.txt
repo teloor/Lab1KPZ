@@ -1,0 +1,8 @@
+D:\!P0l1T3cHn1kx\5sem\RealKPZ\ChornyiAndrii.RobotChallange\bin\Debug\ChornyiAndrii.RobotChallange.dll
+D:\!P0l1T3cHn1kx\5sem\RealKPZ\ChornyiAndrii.RobotChallange\bin\Debug\ChornyiAndrii.RobotChallange.pdb
+D:\!P0l1T3cHn1kx\5sem\RealKPZ\ChornyiAndrii.RobotChallange\bin\Debug\Robot.Common.dll
+D:\!P0l1T3cHn1kx\5sem\RealKPZ\ChornyiAndrii.RobotChallange\obj\Debug\ChornyiAndrii.RobotChallange.csproj.AssemblyReference.cache
+D:\!P0l1T3cHn1kx\5sem\RealKPZ\ChornyiAndrii.RobotChallange\obj\Debug\ChornyiAndrii.RobotChallange.csproj.CoreCompileInputs.cache
+D:\!P0l1T3cHn1kx\5sem\RealKPZ\ChornyiAndrii.RobotChallange\obj\Debug\ChornyiA.E0B70166.Up2Date
+D:\!P0l1T3cHn1kx\5sem\RealKPZ\ChornyiAndrii.RobotChallange\obj\Debug\ChornyiAndrii.RobotChallange.dll
+D:\!P0l1T3cHn1kx\5sem\RealKPZ\ChornyiAndrii.RobotChallange\obj\Debug\ChornyiAndrii.RobotChallange.pdb
